@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Justice</h1>
-<h3 align="center">A passionate frontend developer from Ghana</h3>
+<h1 align="center">
+ツ</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkobby24&label=Profile%20views&color=0e75b6&style=flat" alt="devkobby24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkobby24" alt="devkobby24" /></a> </p>
 
-- 🔭 I’m currently working on **a react-native app**
-
-- 🌱 I’m currently learning **React and React-Native**
 
 - 📫 How to reach me **nanakobby2002@gmail.com**
 
