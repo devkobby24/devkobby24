@@ -104,26 +104,7 @@ const justice = {
 <br /><br />
 
 </td>
-<td align="center" width="33%" valign="top">
 
-<br />
-
-### 🛒 Ecommerce Store
-
-<p><sub><i>Full-Stack TypeScript App</i></sub></p>
-
-<p align="left"><sub>Modern storefront with product catalog, cart state, and checkout flow — built end-to-end in TypeScript.</sub></p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,prisma" height="28" />
-</p>
-
-<a href="https://ecommerce-eight-gamma-75.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-6366F1?style=for-the-badge&logoColor=white" /></a>
-<a href="https://github.com/devkobby24/ecommerce"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br /><br />
-
-</td>
 <td align="center" width="33%" valign="top">
 
 <br />
