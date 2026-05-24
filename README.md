@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://devjustice.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Justice+%F0%9F%91%8B;Full-Stack+Engineer+%7C+React+%E2%80%A2+Next.js+%E2%80%A2+.NET;Crafting+clean%2C+fast%2C+user-first+products;Always+shipping.+Always+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Justice+%F0%9F%91%8B;Full-Stack+Engineer+%7C+React+%E2%80%A2+Next.js+%E2%80%A2+Vue.js;Crafting+clean%2C+fast%2C+user-first+products;Always+shipping.+Always+learning." alt="Typing SVG" />
 </a>
 
 <br />
@@ -22,7 +22,7 @@
 const justice = {
   role:        "Full-Stack Engineer",
   location:    "Earth 🌍",
-  focus:       ["Web", "Mobile", "Fintech"],
+  focus:       ["Web", "Mobile"],
   currently:   "Clauding",
   learning:    ["System Design", "Cloud Architecture", "DevOps"],
   philosophy:  "Simple beats clever. Ship it, then polish it.",
@@ -31,7 +31,7 @@ const justice = {
 ```
 
 - 🌱 Diving deeper into **distributed systems**, **cloud architecture**, and **CI/CD**
-- 💬 Ask me about **React, Next.js, TypeScript, .NET**, or **DX tooling**
+- 💬 Ask me about **React, Next.js, TypeScript, Vue.js**
 - 🤝 Open to collaborating on **open-source** and **developer-tools** projects
 - 📫 Reach me at **nanakobby2002@gmail.com**
 
